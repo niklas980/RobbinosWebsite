@@ -2,7 +2,7 @@
     float: left;
     text-align: center; /* Center-align text */
     width: 25%; /* Equal width (5 icons with 20% width each = 100%) */
-    padding: 12px 0; /* Some top and bottom padding */
+    padding: 20px 0; /* Some top and bottom padding */
     color: black; /* White text color */
     font-size: 30px; /* Increased font size */
     text-decoration: none;
