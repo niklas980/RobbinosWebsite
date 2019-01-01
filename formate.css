@@ -21,3 +21,16 @@ li li {
 tr {
 	font-size: 1.7em;
 }
+
+.image1 {
+    background: #ffffff url('img/innenstadt.jpg') no-repeat fixed top;
+    margin-top: 50px;
+    height: 100px;
+    width: 100%;
+    background-size: cover;
+    padding-top: 25px;
+}
+
+.auto {
+	height: 500000px;
+}
