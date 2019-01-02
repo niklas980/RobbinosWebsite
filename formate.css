@@ -25,7 +25,7 @@ tr {
 .image1 {
     background: #ffffff url('img/innenstadt.jpg') no-repeat fixed top;
     margin-top: 50px;
-    height: 100px;
+    height: 500px;
     width: 100%;
     background-size: cover;
     padding-top: 25px;
@@ -40,7 +40,6 @@ tr {
 	background-size: contain;
 	height: 250px;
 	width: 370px;
-	padding-top: 50px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -49,9 +48,32 @@ tr {
 
 
 .flex {
-    top: -9999px;
-    bottom: -9999px;
-    left: -9999px;
-    right: -9999px;
     margin: auto;
+}
+
+.texte1, .texte2, .texte3 {
+     float: left;
+     width: 32%;
+     margin-right: 2%;
+     box-sizing: border-box;
+}
+
+.texte3:last-child {
+     margin-right: 0;
+}
+
+.imagelage {
+	text-align:center;
+}
+
+.tablepreis {
+	text-align:center;
+}
+
+.austext {
+	font-size: 1.5em;
+}
+
+.fahrpreis {
+	text-align:center;
 }
